@@ -53,4 +53,3 @@ Espera-se que o projeto:
 
 ---
 
-Esse modelo traz uma visão clara do projeto e mostra suas habilidades em gestão de processos e projetos. Adicione esse README.md ao seu repositório no GitHub, e ele será o primeiro ponto de contato para quem visitar seu projeto! Se precisar de ajuda para adicionar ou personalizar algo, me avise.
